@@ -1,4 +1,4 @@
 Postcard
 ================
 
-bitfountain.io - The Complete iOS 8 Course with Swift
+Postcard project from bitfountain.io iOS8 course
